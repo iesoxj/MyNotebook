@@ -24,7 +24,7 @@ https://github.com/michaelg29/yt-tutorials/blob/master/CPP/OpenGL/install.md
 
 - 再工程目录下创建 Linking\include 和 lib 文件夹
 
-  ![image-20210817161215015](OpenGL.assets\image-20210817161215015.png)
+  ![image-20210817161215015](OpenGL.assets/image-20210817161215015.png)
 
 ## GLFW
 
@@ -37,7 +37,9 @@ lib 下的 glfw3.dll 复制到 项目文件夹内（与*.vcxproj同级）
 
 https://www.glfw.org/download.html
 
-![image-20210817161241415](OpenGL.assets\image-20210817161241415.png)
+
+![image-20210817161241415](OpenGL.assets/image-20210817161241415.png)
+
 
 ## Glad(glsl3.3)
 
