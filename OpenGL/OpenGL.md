@@ -161,7 +161,7 @@ assimp\assimp-vc142-mtd.lib;
 
 蓝色区域 可自定义
 
-![image-20210818103633601](OpenGL.assets\image-20210818103633601.png)
+![image-20210818103633601](OpenGL.assets/image-20210818103633601.png)
 
 
 
