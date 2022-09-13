@@ -1,2 +1,2 @@
-# Python
-个人练习文件
+# MyNotebook
+一些学习笔记
