@@ -1,6 +1,0 @@
-<<<<<<< Updated upstream
-测试 web 添加文件。 
-
-web 上做了编辑
-
-本地做了编辑
